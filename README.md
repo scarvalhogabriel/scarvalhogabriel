@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Gabriel Carvalho 👋
+## Olá! Eu sou o Gabriel Carvalho 👋
 
  - 🔭 Atualmente estou em transição de carreira para área de TI.
  - 🌱 Estudando HTML, CSS e Javascript.
