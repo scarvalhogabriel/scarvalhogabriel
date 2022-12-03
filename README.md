@@ -5,6 +5,7 @@
  - 🌱 Estudando HTML, CSS e Javascript.
  
 ##
+
 <div align="left">
   <a href="https://github.com/scarvalhogabriel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=scarvalhogabriel&show_icons=true&theme=github_dark"/>
@@ -23,6 +24,8 @@
   
 <a href = "mailto:scarvalho.gabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-carvalho-0098b5201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://wa.me/5511983008881" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4af23?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+
    
 ![Snake animation](https://github.com/scarvalhogabriel/scarvalhogabriel/blob/output/github-contribution-grid-snake.svg)
    
