@@ -1,15 +1,19 @@
 
 # Olá! Eu sou o Gabriel Carvalho 👋
 
- - 🔭 Atualmente estou em transição de carreira para área de TI.  
+ - 🔭 Em transição de carreira para área de TI.  
  - 🌱 Estudando HTML, CSS e Javascript.
  
 ##
 
 <div align="center">
-  <a href="https://github.com/scarvalhogabriel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=scarvalhogabriel&show_icons=true&theme=github_dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhogabriel&layout=compact&langs_count=7&theme=github_dark"/>
+ 
+ <a href="https://github.com/scarvalhogabriel">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=scarvalhogabriel&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
+ </a> 
+ <a href="https://github.com/scarvalhogabriel">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarvalhogabriel&layout=compact&theme=dark&hide_border=true" />
+ </a> 
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,6 +32,6 @@
  
 
    
-<!-- ![Snake animation](https://github.com/scarvalhogabriel/scarvalhogabriel/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/scarvalhogabriel/scarvalhogabriel/blob/output/github-contribution-grid-snake.svg)
    
   </div> 
